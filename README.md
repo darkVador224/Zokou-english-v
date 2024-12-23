@@ -1,12 +1,12 @@
-# Zokou-2.0 🚀
+# lagherta-2.0 🚀
 
 Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you!
 
 ## Key Features ✨
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
+- **File Download:** lagherta can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou. 😄✨
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to lagherta. 😄✨
 
 - **Group Management:** Zokou offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
 
@@ -14,7 +14,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 
 ## Fun Features 🎉
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
+- **Jokes and Riddles:** lagherta comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
 
 - **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 💪🌟
 
